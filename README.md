@@ -35,12 +35,12 @@ A Quarkus/Angular project that allows users to calculate labseq sequence values 
     java -jar target/quarkus-app/quarkus-run.jar
     ```
 
-## Running the Project (with jar from the releases page)
+## Running the Project (with JAR from the releases page)
 
-1. Run the application:
+1. Run the application (with the release JAR in the current command line directory):
 
     ```bash
-    java -jar target/quarkus-app/quarkus-run.jar
+    java -jar quarkus-run.jar
     ```
 
 ## Accessing the Application
